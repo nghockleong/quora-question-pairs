@@ -21,9 +21,13 @@ Broken down into:
 - `requirements.txt`
   - Contains the necessary Python library dependencies for installation.
 - `en_core_web_sm` SpaCy model
-  - `python -m spacy download en_core_web_sm`
+```bash
+python -m spacy download en_core_web_sm
+```
 - Pytorch with CUDA installed
-  - `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126`
+```bash
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+```
 
 ### Data Ingestion
 Source code:
