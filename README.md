@@ -164,9 +164,3 @@ We could explore the following:
 - Explore the outcome of addressing the slight data imbalance (addressed in the end).
 - Explore the possibilities of incorporating the transformer architecture into the Siamese neural network (or directly replacing LSTM with transformer).
 - Experiment with larger pre-trained models and fine tune with a slightly larger dataset if given the time.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
